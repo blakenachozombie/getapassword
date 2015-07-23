@@ -5,3 +5,5 @@ Choose between sane mode and insane mode. Sane mode gives you pronouncable passw
 Insane mode, on the other hand, gives you crazy, inpronouncable passwords.
 
 Choose how long your password will be, from 1 to 100 characters in length.
+
+After you've chosen these options, it will tell you how many different passwords you can make using those settings.
